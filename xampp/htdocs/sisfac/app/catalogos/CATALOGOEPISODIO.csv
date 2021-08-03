@@ -1,0 +1,70 @@
+1,1,Control 2 dias,0,2
+2,1,Control 7 dias,2,7
+3,1,Control 14 dias,7,14
+4,1,Control 21 dias,15,29
+5,1,Control 1 mes,30,59
+6,1,Control 2 meses,60,89
+7,1,Control 3 meses,90,120
+8,1,Control 4 meses,121,151
+9,1,Control 5 meses,152,181
+10,1,Control 6 meses,182,211
+11,1,Control 7 meses,212,242
+12,1,Control 8 meses,243,272
+13,1,Control 9 meses,273,303
+14,1,Control 10 meses,304,333
+15,1,Control 11 meses,335,364
+16,1,Control 12 meses,365,424
+17,1,Control 14 meses,426,485
+18,1,Control 16 meses,487,546
+19,1,Control 18 meses,548,607
+20,1,Control 20 meses,608,668
+21,1,Control 22 meses,669,729
+22,1,Control 2 años,730,820
+23,1,Control 27 meses,821,911
+24,1,Controol 30 meses,913,1002
+25,1,Control 33 meses,1004,1094
+26,1,Control 3 años,1095,1185
+27,1,Control 39 meses,1186,1276
+28,1,Control 42 meses,1278,1367
+29,1,Control 45 meses,1369,1459
+30,1,Control 4 años,1460,1550
+31,1,Control 51 meses,1551,1641
+32,1,Control 54 meses,1643,1732
+33,1,Control 57 meses,1734,1824
+34,1,Control 5 años,1825,2189
+35,1,Control 6 años,2190,2554
+36,1,Control 7 años,2555,2919
+37,1,Control 8 años,2920,3284
+38,1,Control 9 años,3285,3649
+39,1,Control 10 años,3650,4014
+40,1,Control 11 años,4015,4378
+41,2,1ra visita adolescente,,
+42,2,2da visita adolescente,,
+43,2,3ra visita adolescente,,
+44,3,1ra visita joven,,
+45,3,2da visita joven,,
+46,3,3ra visita joven,,
+47,4,1ra visita adulto,,
+48,4,2da visita adulto,,
+49,4,3ra visita adulto,,
+50,5,1ra visita adulo mayor,,
+51,5,2da visita adulo mayor,,
+52,5,3ra visita adulo mayor,,
+53,6,Primer control APN,,
+54,6,Segundo control APN,,
+55,6,Tercer control APN,,
+56,6,Cuarto control APN,,
+57,6,Quinto control APN,,
+58,6,Sexto control APN,,
+59,6,Septimo control APN,,
+60,6,Octavo control APN,,
+61,6,Noveno control APN,,
+62,6,Decimo control APN,,
+63,6,Primer control puerperio,,
+64,6,Segundo control puerperio,,
+65,1,Sin episodio,,
+66,2,Sin episodio,,
+67,3,Sin episodio,,
+68,4,Sin episodio,,
+69,5,Sin episodio,,
+70,6,Sin episodio,,

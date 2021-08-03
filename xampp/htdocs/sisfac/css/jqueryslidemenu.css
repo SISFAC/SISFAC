@@ -1,0 +1,124 @@
+.jqueryslidemenu{
+	/*
+Sistema de Información para la Salud Familiar y Comunitaria – Sisfac, versión 5.1
+
+Copyright (c) 2014, Medicus Mundi Navarra Aragón Madrid, Salud Sin Límites Perú y Soluciones Prácticas. Contacto: gerardoseminario@gmail.com
+
+This file is part of Sisfac.
+
+Sisfac is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 2 of the License.
+
+Sisfac is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with Sisfac.  If not, see <https://www.gnu.org/licenses/>.
+
+
+*/
+    font: 11px Verdana;
+    color: white;
+    width: 1060px;
+    /*border:1px solid #999999;*/
+    background-image: url(../imagenes/bgmenu.jpg);
+    margin: 0px auto 0px auto;
+    height: inherit;
+    border-left: 1px solid #999999;
+    border-right: 1px solid #999999;
+}
+
+.jqueryslidemenu ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+/*Top level list items*/
+.jqueryslidemenu ul li{
+    position: relative;
+    display: inline;
+    float: left;
+    margin: 0px 8px 0px 8px;
+    z-index: 1000;
+}
+
+/*Top level menu link items style*/
+.jqueryslidemenu ul li a{
+    display: block;
+    /*background-color:#FFFFFF; background of tabs (default state)*/
+    background-image: url(../imagenes/bgmenu.jpg);
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+* html .jqueryslidemenu ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
+    display: inline-block;
+}
+
+.jqueryslidemenu ul li a:link, .jqueryslidemenu ul li a:visited{
+    color: #FFF;
+}
+
+.jqueryslidemenu ul li a:hover{
+    background-image: url(../imagenes/bgmenu.jpg); /*tab link background during hover state*/
+    text-decoration:none;
+}
+	
+/*1st sub level menu*/
+.jqueryslidemenu ul li ul{
+    position: absolute;
+    left: 0;
+    display: block;
+    visibility: hidden;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.jqueryslidemenu ul li ul li{
+    display: list-item;
+    float: none;
+    background-image: none;
+    background-color:#000;
+    text-decoration:none;
+    margin: 0px;
+}
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.jqueryslidemenu ul li ul li ul{
+    top: 0;
+}
+
+/* Sub level menu links style */
+.jqueryslidemenu ul li ul li a{
+    font: normal 10px Verdana;
+    color: white;
+    width: 190px; /*width of sub menus*/
+    padding: 5px;
+    margin: 0;
+    border-top-width: 0;
+    border-bottom: 1px solid gray;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    background-color: #282828;
+    background-image: none;
+    text-decoration:none;
+}
+
+.jqueryslidemenuz ul li ul li a:hover{ /*sub menus hover style*/
+    background-color:#CCCCCC;
+    background-image: none;
+    color: black;
+    text-decoration:none;
+}
+
+/* ######### CSS classes applied to down and right arrow images  ######### */
+
+.downarrowclass{
+position: absolute;
+top: 9px;
+right: 9px;
+}
+
+.rightarrowclass{
+position: absolute;
+top: 6px;
+right: 5px;
+}

@@ -1,0 +1,23 @@
+1,BCG,1,Tuberculosis,menores de 12 meses,0,365
+2,Antihepatitica-HvB (recién nacidos),1,Hepatitis B para recién nacidos sanos con peso igual o mayor a 2000 gramos,menores de 7 días de nacido,0,7
+3,Antihepatitica-HvB (adolescentes y adultos) 3 dosis,3,Hepatitis B para adolescentes y adultos,Mayores de 5 años ,1825,91250
+4,Antipolio IPV (Inyectable),2,Antipolio,Desde 2 meses hasta 4 meses 29 días,60,151
+5,Antipolio IPV (Inyectable) con VIH o contacto VIH,3,Antipolio,Desde 2 meses hasta 4 meses 29 días,60,151
+6,Antipolio APO (Vía oral),3,Antipolio,Desde 6 meses hasta menores de 48 meses,182,1489
+7,Pentavalente,3,"Difteria, tos ferina, tétanos, hemofilus influenza tipo B, Hepatitis B","Desde 2 meses hasta los 4 años, 11 meses y 29 días",60,1824
+8,Neumococo ( 3 dosis),3,"Neumonías, meningitis,septicemia","Desde 2 meses hasta 12 meses, 29 días",60,395
+9,Neumococo (2 dosis),2,"Neumonías, meningitis,septicemia","Desde 12 hasta 23 meses, 29 días",365,729
+10,"Neumococo (Comorbilidad, 1 dosis)",1,"Neumonías, meningitis,septicemia","Desde 24 meses a 4 años, 11 meses, 29 días",730,1824
+11,"Influenza (Niños, 2 dosis )",2,Gripe causada por hemofilus influenza,Desde 7 meses a 23 meses 29 días,212,729
+12,Influenza (Gestantes o puérperas 1 dosis),1,Gripe causada por hemofilus influenza,Gestantes y puérperas,,
+13,Influenza (Adultos y trabajadores de salud 1 dosis),1,Gripe causada por hemofilus influenza,"etapas joven, adulto, adulto mayor ",6569,91250
+14,Rotavirus,2,Diarreas causadas por rotavirus,Desde 2 meses hasta menores de 6 meses,60,182
+15,SPR,2,"Sarampión, paperas y rubeola","Desde 12 meses hasta 4 años, 11 meses y 29 días",365,1824
+16,Antiamarílica (AMA),1,Fiebre amarilla,"Desde 15 meses hasta 59 años, 11 meses y 29 días",456,21899
+17,SR (grupos de riesgo sin SPR),1,Cuando no se alcanza la SPR,A partir de los  5 años,1825,91250
+18,HiB (reaccipon adversa Pentavalente),2,Haemophilus Influenzae tipo b,"Desde 2 meses hasta 5 años,11 meses, 29 días",60,2189
+19,Dt Pediátrica (DPT),2,"Difteria, tétano, tos convulsiva","Desde los 18 meses hasta los 4 años, 11 meses , 29 días",547,1824
+20,Dt Adulto (MER),3,Solo mujeres en edad reproductiva,Desde los 10 años hasta 49 años de edad,3650,17886
+21,Dt Adulto (Gestante) ,2,si no ha sido vacunadas previamente,A partir del 2do trimestre de gestación,,
+22,Dt Adulto (varones en riesgo),3,Solo varones en riesgo,Varones a partir de los 15 años de edad,5475,91250
+23,VPH,3,Virus Papiloma Humano,Mujeres a  partir de los 10 años de edad,3650,91250

@@ -1,0 +1,1 @@
+INSERT INTO ciclo( idciclo, idfamilia, claveGeneral, codigoCiclo, nombreCiclo) VALUES  ('430','120','000003994','','FAMILIA EN CONTRACCION')

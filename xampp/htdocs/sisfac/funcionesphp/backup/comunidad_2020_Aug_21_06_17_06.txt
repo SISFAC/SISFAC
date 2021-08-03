@@ -1,0 +1,71 @@
+delete from comunidad where idcomunidad=7 and claveGeneral='000007324'; delete FROM administracionmicronutrientesnino WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete FROM antecedentefamiliar WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete FROM antecedentefisiologico WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete FROM antecedenteginecobstetrico WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete FROM antecedenteinmunizacion WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete FROM antecedentemedicamento WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete FROM antecedentepatologico WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete FROM antecedentepsicosocial WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete FROM antecedentesexual WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete from ciclo WHERE claveGeneral='000003976' and idfamilia 
+                            IN (select idfamilia from familia 
+                            where idestablecimiento = 228 and idcomunidad = 7);delete FROM condicion WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete from entorno WHERE claveGeneral='000003976' and idfamilia 
+                            IN (select idfamilia from familia 
+                            where idestablecimiento = 228 and idcomunidad = 7);delete FROM episodio WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete FROM evaluaciondesarrollo WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete from familia WHERE claveGeneral='000003976' and  idestablecimiento = 228 and idcomunidad = 7;delete FROM pais WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete FROM prestacionaiepi WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete FROM prestacionalimentacionrn WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete FROM prestacionconsejeria WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete FROM prestacionevaluacionlme WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete FROM prestacionevaluacionnino WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete FROM prestacionexamenintegral WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete FROM riesgo WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete FROM sindromecultural WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete from socioeconomico WHERE claveGeneral='000003976' and idfamilia 
+                            IN (select idfamilia from familia 
+                            where idestablecimiento = 228 and idcomunidad = 7);delete FROM vacuna WHERE claveGeneral='000003976' and idpersona 
+                                IN (select p.idpersona from persona p inner join familia f on(f.idfamilia=p.idfamilia and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete from visita WHERE claveGeneral='000003976' and idfamilia 
+                            IN (select idfamilia from familia 
+                            where idestablecimiento = 228 and idcomunidad = 7);delete from persona WHERE claveGeneral='000003976' and idfamilia 
+                                IN (select idfamilia from familia 
+                            where idestablecimiento = 228 and idcomunidad = 7);delete from familia where idestablecimiento = 228 and idcomunidad = 7;delete from cicloh WHERE claveGeneral='000003976' and idfamiliaH 
+                                IN (select idfamiliaH from familiaH 
+                                where idestablecimiento = 228 and idcomunidad = 7);delete FROM condicionh WHERE claveGeneral='000003976' and idpersonaH 
+                                IN (select p.idpersonaH from personaH p inner join familiaH f on(f.idfamiliaH=p.idfamiliaH and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete from entornoh WHERE claveGeneral='000003976' and idfamiliaH 
+                                IN (select idfamiliaH from familiaH 
+                                where idestablecimiento = 228 and idcomunidad = 7);delete FROM riesgoh WHERE claveGeneral='000003976' and idpersonaH 
+                                IN (select p.idpersonaH from personaH p inner join familiaH f on(f.idfamiliaH=p.idfamiliaH and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete FROM sindromeculturalh WHERE claveGeneral='000003976' and idpersonaH 
+                                IN (select p.idpersonaH from personaH p inner join familiaH f on(f.idfamiliaH=p.idfamiliaH and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7);delete from socioeconomicoh WHERE claveGeneral='000003976' and idfamiliaH 
+                                IN (select idfamiliaH from familiaH 
+                                where idestablecimiento = 228 and idcomunidad = 7);delete from visitah WHERE claveGeneral='000003976' and idfamiliaH 
+                                IN (select idfamiliaH from familiaH 
+                                where idestablecimiento = 228 and idcomunidad = 7);delete from personah WHERE claveGeneral='000003976' and idfamiliaH 
+                                IN (select idfamiliaH from familiaH 
+                            where idestablecimiento = 228 and idcomunidad = 7);delete from familiah where idestablecimiento = 228 and idcomunidad = 7;

@@ -1,0 +1,47 @@
+1,1,1,SI,FN,0,Dentro de las 24 horas de nacido
+2,2,1,SI,FN,0,Dentro de las 24 horas de nacido
+3,3,1,NO,SP,,A partir de 5 años hasta los 20 años
+4,3,2,SI,FAP1,60,A partir de 5 años hasta los 20 años
+5,3,3,SI,FAP1,182,A partir de 5 años hasta los 20 años
+6,4,1,SI,FN,60,2 meses
+7,4,2,SI,FN,121,4 meses
+8,5,1,SI,FN,60,2meses
+9,5,2,SI,FN,121,4meses
+10,5,3,SI,FN,182,6 meses
+11,6,1,SI,FN,182,6 meses
+12,6,2,SI,FN,547,18 meses
+13,6,3,SI,FN,1460,4 años
+14,7,1,SI,FN,60,2 meses
+15,7,2,SI,FN,121,4 meses
+16,7,3,SI,FN,182,6 meses
+17,8,1,SI,FN,60,2 meses
+18,8,2,SI,FN,121,4 meses
+19,8,3,SI,FN,365,12 meses
+20,9,1,NO,SP,,Sin programacion automatica
+21,9,2,SI,FAP1,30,1 mes despues de la 1ra dosis
+22,10,1,NO,FN,730,"Desde 24 meses a 4 años, 11 meses 29 días"
+23,11,1,SI,FN,212,Cumplidos los 7 meses
+24,11,2,SI,FAP1,30,30 días despues de la 1ra dosis
+25,12,1,SI,FUR,121,4to mes de gestacion
+26,13,1,NO,SP,,a partir de la etapa joven
+27,14,1,SI,FN,60,2 meses
+28,14,2,SI,FN,121,4 meses
+29,15,1,SI,FN,365,12 meses
+30,15,2,SI,FN,547,18 meses
+31,16,1,SI,FN,456,15 meses
+32,17,1,SI,FN,1825,A partir de los 5 años
+33,18,1,NO,SP,,Dentro del intervalo (menores 5 años)
+34,18,2,SI,FAP1,60,2 meses luego de la 1ra dosis.
+35,19,1,SI,FN,547,18 meses
+36,19,2,SI,FN,1823,"4 años, 11 meses, 29 días"
+37,20,1,NO,SP,,
+38,20,2,SI,FAP1,60,2 meses despues de la 1ra dosis
+39,20,3,SI,FAP2,182,6 meses despues de la 2da dosis
+40,21,1,SI,FUR,182,6 meses de gestación
+41,21,2,SI,FAP1,60,2 meses despues de la 1ra dosis
+42,22,1, NO,SP,,A partir de los 15 años
+43,22,2, NO,SP,,A partir de los 15 años
+44,22,3, NO,SP,,A partir de los 15 años
+45,23,1,SI,FN,3650,10 años
+46,23,2,SI,FAP1,60,2 meses despues de la 1ra dosis
+47,23,3,SI,FAP2,182,6 meses despues de la 2da dosis

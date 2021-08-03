@@ -1,0 +1,59 @@
+body{
+	
+/*
+Sistema de Información para la Salud Familiar y Comunitaria – Sisfac, versión 5.1
+
+Copyright (c) 2014, Medicus Mundi Navarra Aragón Madrid, Salud Sin Límites Perú y Soluciones Prácticas. Contacto: gerardoseminario@gmail.com
+
+This file is part of Sisfac.
+
+Sisfac is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 2 of the License.
+
+Sisfac is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with Sisfac.  If not, see <https://www.gnu.org/licenses/>.
+
+*/
+
+font:6px Arial, Tahoma, Verdana, Helvetica, sans-serif;
+background-color:#BECEDC;
+color:#000;
+}
+
+a h1{
+font-size:35px;	
+color:#FFF;
+}
+
+h2{
+color:#FC0;
+font-size:15px;	
+}
+
+table{
+width:100%;
+height:auto;
+margin:10px 0 10px 0;
+border-collapse:collapse;
+text-align:center;
+background-color:#365985;
+color:#FFF;
+}
+
+table td,th{
+border:1px solid black;
+width: 65;
+}
+
+table th{
+color:#FC0;	
+}
+
+.menu{
+background-color:#69C;
+color:#FFF;
+}
+
+.menu a{
+color:#FFF;	
+}

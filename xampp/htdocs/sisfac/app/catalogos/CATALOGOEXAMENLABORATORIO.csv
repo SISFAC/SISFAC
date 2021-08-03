@@ -1,0 +1,149 @@
+1,1,Otras pruebas,IVA,,,SI
+2,1,Otras pruebas,PAP ,,,SI
+3,1,Laboratorio,GLUCOSA POST PRANDIAL,mg/dL,< 120,SI
+4,1,Laboratorio,CREATININA,mg/dl,0.5 - 1.2,SI
+5,1,Laboratorio,UREA,m/dl,10.00 - 47.00,SI
+6,1,Laboratorio,ACIDO URICO,mg/dl,3.4 – 7.00,SI
+7,1,Laboratorio,GLUCOSA,mg/dl,70  - 110,SI
+8,1,Laboratorio,CALCIO EN SUERO,mg/dL,8.5 - 10.5,SI
+9,1,Laboratorio,AMILASA,U/L,Hasta 125,SI
+10,1,Laboratorio,CPK CREATININ FOSFOQUINASA,U/L,Mujeres:24 - 170 / Varones:24 - 195,SI
+11,1,Laboratorio,DESHIDROGENASA LACTICA,U/L,230- 460,SI
+12,1,Laboratorio,GAMMA GLUTAMIL TRANSPEPTIDASA,UI/L,Mujeres: 7-32 / Varones: 11-50,SI
+13,1,Laboratorio,LIPASA,UI/L,13.00 - 60.00,SI
+14,1,Laboratorio,MAGNESIO,mg/dL,1.9 - 2.5,SI
+15,1,Laboratorio,CPK MB CREATININ FOSFOQUINASA FRACCION MB,U/L,Hasta 25,SI
+16,1,Laboratorio,ALDOLASA,Udes,3.0  -  10.0,SI
+17,1,Laboratorio,OSMOLARIDAD EN ORINA DE 24 HORAS,mOsm/Kg/24,"40 -1,400",SI
+18,1,Laboratorio,CARBAMAZEPINA (CBZ)TEGRETOL,ug/mL,4 - 12,SI
+19,1,Laboratorio,DIFENILHIDANTONINA (DPH) FENITOINA,ug/mL,10 - 20,SI
+20,1,Laboratorio,DIGOXINA,ng/mL,0.5 -2.0,SI
+21,1,Laboratorio,FENOBARBITAL (PB),ug/mL,15 - 40,SI
+22,1,Laboratorio,SALICILATOS,mg/dL,5 - 25,SI
+23,1,Laboratorio,R.P.R,S/U,NO REACTIVO,SI
+24,1,Laboratorio,HIV  (ANTIGENO - ANTICUERPO),S/U,NEGATIVO,SI
+25,1,Laboratorio,HCG SUB UNIDAD BETA (PRUEBA CUALITATIVA),S/U,NEGATIVO,SI
+26,1,Laboratorio,HEPATITIS B ANTIGENO AUSTRALIANO,S/U,NEGATIVO,SI
+27,1,Laboratorio,V,S/U,Negativo,SI
+28,1,Laboratorio,PSA ANTIGENO PROSTATICO ESPECIFICO, ng/ml,Hasta 4 ,SI
+29,1,Laboratorio,HCG.SUB.BETA (CUANTITATIVO),mUI/mL,"0 -5 (No embarazo).
+25 – 50  ( 0 – 1 Semanas )
+30 – 500 ( 1 – 2 Semanas )
+3000 – 19000 ( 3 – 4 Semanas)
+4000 – 56490 ( 4 – 5 Semanas )
+7650 – 132000  ( 5 – 6 Semanas )
+23000 – 229000  (6 - 7 Semanas )
+42000 – 269000   ( 7 – 8 Semanas )
+50000 – 288000  (8 – 9 Semanas)
+ 30000 – 255000 (9 – 10 Semanas )
+25000 – 225000  (1 0 – 11 Semanas )
+15000 – 202000 (11 – 12 Semanas )
+3500 – 200000 ( 2do Trimestre )
+40000 – 80000 ( 3er Trimestre )",SI
+30,1,Laboratorio,Descarte de Proteinuria - Ac. Sulfosalicilico,,,si
+31,1,Laboratorio,VDRL ,,,si
+32,1,ecografia,,,,si
+33,1,Laboratorio,Test de Graham,,,si
+34,2,Laboratorio,COLESTEROL ,mg/dl,"Nivel Deseable < de 200
+Nivel Intermedio 200 - 239
+Nivel Elevado >= 240",SI
+35,2,Laboratorio,HDL COLESTEROL ,mg/dl,"Nivel Deseable >=  de 60
+Nivel Intermedio 40 - 59
+Nivel Bajo <  40",SI
+36,2,Laboratorio,LDL COLESTEROL ,mg/dl,"Nivel Deseable < de 100
+Nivel cercano al deseable 100 - 129
+Nivel Intermedio 130 - 159
+Nivel Elevado 160 - 189",SI
+37,2,Laboratorio,VLDL COLESTEROL ,mg/dl,Nivel Deseable  5 - 40,SI
+38,2,Laboratorio,TRIGLICERIDOS,mg/dl,"Nivel Deseable < de 150
+Nivel Intermedio 150 - 199
+Nivel Elevado 200 - 499
+Nivel muy Elevado > de 500",SI
+39,3,Laboratorio,BILIRRUBINAS TOTALES,mg/dl, 0.10 - 1.00,SI
+40,3,Laboratorio,BILIRRUBINA INDIRECTA,mg/dl, 0.10 - 1.00,SI
+41,3,Laboratorio,BILIRRUBINA DIRECTA,mg/dl, 0.00 - 0.30,SI
+42,3,Laboratorio,PROTEINAS TOTALES,g/dl,6.60 - 8.70,SI
+43,3,Laboratorio,ALBUMINA,g/dl,3.40 - 4.80,SI
+44,3,Laboratorio,GLOBULINAS,g/dl,2.30 - 3.50,SI
+45,3,Laboratorio,FOSFATASA ALCALINA,U/L,40.00 - 129.00,SI
+46,3,Laboratorio,TRANSAMINASA PIRUVICA (TGP),U/L,6.00 - 40.00,SI
+47,3,Laboratorio,TRANSAMINASA OXALACETICA (TGO),U/L,9.00 - 37.00,SI
+48,4,Laboratorio,INSULINA BASAL,uUI/mL,2.6-24.9,NO
+49,4,Laboratorio, 30 MINUTOS,uUI/mL,20-230,NO
+50,4,Laboratorio,60 MINUTOS,uUI/mL,29-250,NO
+51,4,Laboratorio,120 MINUTOS,uUI/mL,14-160,NO
+52,4,Laboratorio,90 MINUTOS,uUI/mL,22-190,NO
+53,5,Laboratorio,BASAL,mg/dl,70  - 110,NO
+54,5,Laboratorio,30 MINUTOS,,,NO
+55,5,Laboratorio,60 MINUTOS,mg/dl,< 200,NO
+56,5,Laboratorio,90 MINUTOS,,,NO
+57,5,Laboratorio,120 MINUTOS,mg/dl,< 140,NO
+58,6,Laboratorio,HEMOGLOBINA,g/dL,12.00 - 16.00,SI
+59,6,Laboratorio,HEMATOCRITO,%,36 - 48,SI
+60,6,Laboratorio,HEMATIES,( 10 * 6 /uL ),4.00 - 4.90,NO
+61,6,Laboratorio,VOLUMEN CORPUSCULAR MEDIO,fL,80.00 - 100.00,NO
+62,6,Laboratorio,HEMOGLOBINA CORPUSCULAR MEDIA,pg,27.00 - 32.00,NO
+63,6,Laboratorio,CONCENTRACION DE HEMOGLOBINA  CORPUSCULAR,g/dL,32.0 - 36.0,NO
+64,6,Laboratorio,PLAQUETAS,( 10 * 3 /uL ),150.00 - 350.00,NO
+65,6,Laboratorio,VOLUMEN PLAQUETARIO MEDIO,fL,7.50 - 11.50,NO
+66,6,Laboratorio,LEUCOCITOS TOTALES,( 10 * 3 /uL ),4.50 - 11.00,NO
+67,6,Laboratorio,LINFOCITOS %,%,25.00 - 50.00,NO
+68,6,Laboratorio,BASOFILOS %,%,0.00 - 1.00,NO
+69,6,Laboratorio,MONOCITOS %,%,2.00 - 10.00,NO
+70,6,Laboratorio,NEUTROFILOS SEGMENTADOS %,%,35.00 - 66.00,NO
+71,6,Laboratorio,EOSINOFILOS %,%,0.00 - 3.00,NO
+72,6,Laboratorio,BASTONES %,%,0.00 - 5.00 ,NO
+73,6,Laboratorio,LINFOCITOS ( 10 * 3 /UL ) ABSOLUTO,( 10 * 3 /uL ),1.00 - 4.80,NO
+74,6,Laboratorio,BASOFILOS ( 10 * 3 /UL ) ABSOLUTO,( 10 * 3 /uL ),0.00 - 0.20,NO
+75,6,Laboratorio,MONOCITOS ( 10 * 3 /UL ) ABSOLUTO,( 10 * 3 /uL ),0.20 - 1.50,NO
+76,6,Laboratorio,NEUTROFILOS SEGMENTADOS ( 10 * 3 /UL ) ABSOLUTO,( 10 * 3 /uL ),2.00 - 9.00,NO
+77,6,Laboratorio,EOSINOFILOS ( 10 * 3 /UL ) ABSOLUTO,( 10 * 3 /uL ),0.00 - 0.70,NO
+78,6,Laboratorio,BASTONES ( 10 * 3 /UL ) ABSOLUTO,( 10 * 3 /uL ),0.00 - 0.50,NO
+79,7,Laboratorio,RECUENTO DE RETICULOCITOS,%,0.5-1.5,SI
+80,7,Laboratorio,TIEMPO DE COAGULACION,min,3 - 10,SI
+81,7,Laboratorio,TIEMPO DE SANGRIA,Seg,30 - 180,SI
+82,7,Laboratorio,VSG (VELOCIDAD DE SED. GLOBULAR),mm/hr,Mujer    0 -13      Hombre  0 -10,SI
+83,8,Laboratorio,GRUPO SANGUINEO,S/U,,NO
+84,8,Laboratorio,FACTOR  RH,S/U,,NO
+85,9,Laboratorio,BK (ESPUTO),,,NO
+86,10,Laboratorio,COLOR,,,NO
+87,10,Laboratorio,ASPECTO,,,NO
+88,10,Laboratorio,CONSISTENCIA,,,NO
+89,10,Laboratorio,OLOR,,,NO
+90,10,Laboratorio,MOCO,,,NO
+91,10,Laboratorio,PRESENCIA DE SANGRE,,,NO
+92,10,Laboratorio,REACCION QUIMICA,,,NO
+93,11,Laboratorio,TIFICO  O,S/U,Negativo,SI
+94,11,Laboratorio,TIFICO  H,S/U,Negativo,SI
+95,11,Laboratorio,PARATIFICO A,S/U,Negativo,SI
+96,11,Laboratorio,PARATIFICO B,S/U,Negativo,SI
+97,11,Laboratorio,BRUCELLA,S/U,Negativo,SI
+98,12,Laboratorio,COLOR,,,NO
+99,12,Laboratorio,ASPECTO,,,NO
+100,12,Laboratorio,PH,,5. - 7.,NO
+101,12,Laboratorio,DENSIDAD,g/cm3,1.000 - 1.010,NO
+102,12,Laboratorio,PROTEINAS,,NEGATIVO,NO
+103,12,Laboratorio,GLUCOSA,,NEGATIVO,NO
+104,12,Laboratorio,CUERPOS CETONICOS,,NEGATIVO,NO
+105,12,Laboratorio,BILIRRUBINAS,,NEGATIVO,NO
+106,12,Laboratorio,UROBILINOGENO,mg/dl,0.2,NO
+107,12,Laboratorio,HEMOGLOBINA,,NEGATIVO,NO
+108,12,Laboratorio,ESTERASA LEUCOCITARIA,,NEGATIVO,NO
+109,12,Laboratorio,NITRITOS,,NEGATIVO,NO
+110,13,Laboratorio,LEUCOCITOS,,,NO
+111,13,Laboratorio,HEMATIES,,,NO
+112,13,Laboratorio,GERMENES,,,NO
+113,13,Laboratorio,CELULAS EPITELIALES,,,NO
+114,13,Laboratorio,CRISTALES,,,NO
+115,14,Laboratorio,DIRECTO /(SOLUC. SALINA/LUGOL)   ,,,NO
+116,15,Laboratorio,COLOR,,,NO
+117,15,Laboratorio,ASPECTO,,,NO
+118,15,Laboratorio,CONSISTENCIA,,,NO
+119,15,Laboratorio,OLOR,,,NO
+120,15,Laboratorio,MOCO,,,NO
+121,15,Laboratorio,LEUCOCITOS,,,NO
+122,15,Laboratorio,HEMATIES,,,NO
+123,15,Laboratorio,PARASITOS,,,NO
+124,16,Laboratorio,EXAMEN SERIADO DE HECES,,,SI
+125,17,Laboratorio,PERFIL TORCH,,,SI
+126,1,Laboratorio,HORMONA ESTIMULANTE DE LA TIROIDES (TSH),,,SI

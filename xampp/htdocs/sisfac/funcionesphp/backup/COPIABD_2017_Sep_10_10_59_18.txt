@@ -1,0 +1,1 @@
+INSERT INTO datogeneral( claveGeneral, claves, lugarCentral) VALUES  ('000004086','1-3-17-33-370','')** 

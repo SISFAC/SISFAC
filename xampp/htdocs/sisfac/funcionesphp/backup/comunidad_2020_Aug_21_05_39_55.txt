@@ -1,0 +1,7 @@
+delete FROM sindromeculturalh WHERE claveGeneral='000003976' and idpersonaH 
+                                IN (select p.idpersonaH from personaH p inner join familiaH f on(f.idfamiliaH=p.idfamiliaH and f.claveGeneral=p.claveGeneral) 
+                                where f.idestablecimiento = 228 and f.idcomunidad = 7)delete from socioeconomicoh WHERE claveGeneral='000003976' and idfamiliaH 
+                                IN (select idfamiliaH from familiaH 
+                                where idestablecimiento = 228 and idcomunidad = 7)delete from visitah WHERE claveGeneral='000003976' and idfamiliaH 
+                                IN (select idfamiliaH from familiaH 
+                                where idestablecimiento = 228 and idcomunidad = 7)

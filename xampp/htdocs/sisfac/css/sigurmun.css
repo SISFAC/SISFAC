@@ -1,0 +1,199 @@
+@charset "utf-8";
+/*
+Sistema de Información para la Salud Familiar y Comunitaria – Sisfac, versión 5.1
+
+Copyright (c) 2014, Medicus Mundi Navarra Aragón Madrid, Salud Sin Límites Perú y Soluciones Prácticas. Contacto: gerardoseminario@gmail.com
+
+This file is part of Sisfac.
+
+Sisfac is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 2 of the License.
+
+Sisfac is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with Sisfac.  If not, see <https://www.gnu.org/licenses/>.
+
+
+*/
+
+/* CSS Document */
+
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	line-height:normal;
+	background-image :url(/sisfac/imagenes/fondo5.jpg);	
+	background-repeat:repeat-x;
+	background-color:#dedede;/*#d3d3d3;   e9e7c3  */
+	}
+#cabecera{
+	width:1080px;
+	height:35px;
+	margin:0px auto 0px auto;
+	/*background-image:url(/sisfac/imagenes/nombre_muni--.jpg);*/
+	background-position:right;
+	background-repeat:no-repeat;
+	
+	}
+#menu{
+	width:100%;
+	height:25px;
+	background-image:url(/sisfac/imagenes/bgmenu.jpg);
+	}
+#cuerpo{
+	width:auto;
+	height:auto;
+	margin:0px auto 10px auto;
+	}
+#contenido{
+	width:auto;
+	height:auto;
+	margin:5px;
+	}
+#altauto{
+	clear:both;
+	}
+#pie{
+	width:100%;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	color:#666;
+	}
+.capaborde{
+	width:auto;
+	height:auto;
+	border:0px solid silver;	
+	padding-bottom:5px;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top:0px;
+	background-color:#FFF;
+	}
+.texpeque{
+	font-size:14px;
+	font-weight:bold;
+	color:#217399;
+	font-family: Arial;
+	}
+.boton_limpia{
+background:url(/sisfac/imagenes/reset.png) no-repeat;
+width:20px;
+border:0px solid #339900;
+cursor:pointer;
+height:20px;
+}
+
+.botonpeque{
+	width:90px;
+	}
+.cajastexto{
+	font-size:12px; 
+	padding:2px 0px 2px 0px;
+	margin:1px;
+	}
+
+.cajastextologin{
+	font-size: 18px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	padding: 2px 4px 2px 4px;
+}
+
+.login{
+	color:#666666;
+	background-color:#F4F4F4;
+	padding:10px 50px 5px 50px;
+	border:1px solid #CCC;
+	-moz-border-radius:10px; /*Bordes Redondeados*/
+}
+
+.botones{
+	width: 100px;
+	height: 25px;
+	font-family: "Lucida Sans Unicode";
+	/*text-align: center;
+	border: 0px solid silver;
+	background:url(/sisfac/imagenes/fondo_boton.png);
+	color: white;*/
+}
+
+.textorojo{
+	color: #EA4D00;
+}
+
+.iconoBuscar{
+    cursor: pointer;
+    background: url(/sisfac/imagenes/buscar1.png) right no-repeat; 
+    display: block; 
+    float: right; 
+    height: 16px;
+    width: 16px;
+}
+
+.iconoBuscar{
+    cursor: pointer;
+    background: url(/sisfac/imagenes/buscar1.png) right no-repeat; 
+    display: block; 
+    float: right; 
+    height: 16px;
+    width: 16px;
+}
+
+#lCerrarSesion{
+    color: #FDDC6B;
+    cursor: pointer;
+    float: right;
+    font-weight: bolder;
+    margin-top: 25px;
+}
+.menulat{
+width:200px;
+}
+
+.menulat ul{
+list-style:none;
+border-right:1px solid #CCC;
+border-left:1px solid #CCC;
+border-top:1px solid #CCC;
+}
+
+#menu8 {
+	width: 200px;
+	}
+	
+#menu8 li a {
+	height: 32px;
+  	voice-family: "\"}\""; 
+  	voice-family: inherit;
+  	height: 24px;
+	text-decoration: none;
+	border-bottom:1px solid #CCCCCC;
+	}	
+	
+#menu8 li a:link, #menu8 li a:visited {
+	color: #656556;
+	display: block;
+	background:  url(/sisfac/imagenes/menu8.gif);
+	padding: 8px 0 0 10px;
+}
+	
+#menu8 li a:hover {
+	color: #474739;
+	background:  url(/sisfac/imagenes/menu8.gif) 0 -32px;
+	padding: 8px 0 0 10px;
+	}
+.contenidoborde{
+    border:1px solid #CCC;
+    padding: 2px;
+    margin-left:2px;
+}
+
+.textoplomo{
+	color: silver;
+	font-size: 22px;
+	font-weight: bold;
+	font-family: arial;
+	
+}

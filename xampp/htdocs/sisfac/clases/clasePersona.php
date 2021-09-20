@@ -1,4 +1,4 @@
-<?
+<?php
 /*
 Sistema de Información para la Salud Familiar y Comunitaria – Sisfac, versión 5.1
 
